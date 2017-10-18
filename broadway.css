@@ -1,0 +1,52 @@
+html {
+    text-align: center;
+}
+
+
+#title {
+    font-family: Helvetica;
+    font-size: 70px;
+    font-weight: bold;
+    color:white;
+}
+
+#TopDiv {
+    font-family: 18px;
+    font-family: Helvetica;
+    color:white;
+    background-image : url('the-flatiron-building.png');
+    
+}
+
+#ProcessHeader {
+    
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#Topis1 h3 {
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#Topis1 p {
+    font-family: Helvetica;
+    font-size:14px;
+}
+
+#NewYork{
+    font-family: Helvetica;
+    font-size: 23px;
+    font-weight: bold;
+    color:white;
+    background-image : url('the-flatiron-building.png');    
+}
+
+footer {
+    font-family: Helvetica;
+    font-size: 11px;
+    color:white;
+    background-color:dimgray;    
+}
